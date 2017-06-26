@@ -1,4 +1,4 @@
-## Library Carpetry. Week Three: Git
+## Library Carpentry. Week Three: Git
 
 ### Install for week three
 
